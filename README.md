@@ -1,5 +1,7 @@
 Collection of publicly available IPTV (Internet Protocol television) channels.
 
+Point your device to: https://emiltz.github.io/balkan.m3u
+
 List contains publicly available IPTV channels from Bosnia,Croatia and Serbia.
 
 
